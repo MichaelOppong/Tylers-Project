@@ -1,0 +1,38 @@
+h1{
+font-family: 'Mountains of Christmas', cursive;
+text-align:center;
+}
+img{
+ width:500px;  
+ border:solid yellow 15px;
+}
+body{
+ background-color:lime;  
+ text-align:center;
+}
+p{
+    font-family: 'Acme', sans-serif;
+    font-size:20px;
+}
+h2{
+font-family: 'Gloria Hallelujah', cursive;
+}    
+.piff{
+    height:100px;
+}
+.me{
+    height:550px;
+}
+.person{
+    height:550px;   
+}
+.appear{ display:none; }
+.penny{ display: none; }   
+button:hover{
+    border:dotted;
+}
+button{
+  border:outset;   
+    width:50%;
+}
+
